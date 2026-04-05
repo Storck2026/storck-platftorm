@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tt1",
+    "name": "Mangel",
+    "color": "#c0392b"
+  },
+  {
+    "id": "tt2",
+    "name": "Aufgabe",
+    "color": "#e67e22"
+  },
+  {
+    "id": "tt3",
+    "name": "Abnahme",
+    "color": "#27ae60"
+  },
+  {
+    "id": "tt4",
+    "name": "Behinderung",
+    "color": "#8e44ad"
+  },
+  {
+    "id": "tt5",
+    "name": "Nachtrag",
+    "color": "#2980b9"
+  },
+  {
+    "id": "tt6",
+    "name": "Restleistung",
+    "color": "#16a085"
+  },
+  {
+    "id": "tt7",
+    "name": "Schaden",
+    "color": "#e74c3c"
+  },
+  {
+    "id": "tt8",
+    "name": "Aktennotiz",
+    "color": "#7f8c8d"
+  },
+  {
+    "id": "5aa5658e-16d4-49f5-9fce-5fdd09e4ed27",
+    "name": "Notiz",
+    "color": "#7dbf2b"
+  }
+]

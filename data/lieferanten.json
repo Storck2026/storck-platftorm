@@ -1,0 +1,17 @@
+[
+  {
+    "id": "6b14b6ec-1fd0-42a7-8c2d-4007d0e3a9c2",
+    "lieferantennummer": "LF-0001",
+    "name": "Lieferant 1",
+    "strasse": "",
+    "plz": "",
+    "ort": "",
+    "telefon": "",
+    "email": "",
+    "ansprechpartner": "",
+    "zahlungsziel": "30",
+    "kategorie": "Material",
+    "notizen": "",
+    "erstellt": "2026-04-03T19:17:29.917Z"
+  }
+]

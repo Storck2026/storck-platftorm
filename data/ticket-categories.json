@@ -1,0 +1,47 @@
+[
+  {
+    "id": "tc1",
+    "name": "Brandmeldeanlage",
+    "color": "#c0392b"
+  },
+  {
+    "id": "tc2",
+    "name": "Einbruchmeldeanlage",
+    "color": "#2980b9"
+  },
+  {
+    "id": "tc3",
+    "name": "Videoüberwachung",
+    "color": "#8e44ad"
+  },
+  {
+    "id": "tc4",
+    "name": "Zutrittskontrolle",
+    "color": "#16a085"
+  },
+  {
+    "id": "tc5",
+    "name": "SAA / Sprachanlage",
+    "color": "#27ae60"
+  },
+  {
+    "id": "tc6",
+    "name": "Netzwerk",
+    "color": "#2c3e50"
+  },
+  {
+    "id": "tc7",
+    "name": "Elektro",
+    "color": "#f39c12"
+  },
+  {
+    "id": "tc8",
+    "name": "Sicherheitstechnik",
+    "color": "#7f8c8d"
+  },
+  {
+    "id": "tc9",
+    "name": "Sonstiges",
+    "color": "#95a5a6"
+  }
+]

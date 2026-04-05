@@ -1,0 +1,22 @@
+[
+  {
+    "id": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "name": "Administrator",
+    "email": "admin@admin.de",
+    "password": "$2a$10$imCdfLWddNg8PAqEOqhC8.5q8vRCUB2gFo2cA1jYmySZawB37fJvi",
+    "role": "admin",
+    "active": true,
+    "createdAt": "2026-03-28T14:42:53.817Z",
+    "verified": true
+  },
+  {
+    "id": "26d0a912-a2da-4a1a-9678-adfc418f874c",
+    "name": "Bojan Obradovic",
+    "email": "b.obradovic@storck-gmbh.de",
+    "password": "$2a$10$RQd7bPNOm0vxVijJhtmpSO8TgNnG0aTz6d4Rw0oRakoLVseO55Uc.",
+    "role": "worker",
+    "active": true,
+    "verified": true,
+    "createdAt": "2026-03-31T12:40:09.465Z"
+  }
+]

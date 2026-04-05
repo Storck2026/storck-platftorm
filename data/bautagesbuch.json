@@ -1,0 +1,73 @@
+[
+  {
+    "id": "f550d12d-0a95-4194-9346-3acb6b9f3824",
+    "date": "2026-04-03",
+    "reportNo": "jnk",
+    "projectId": "33a16fce-9cc2-4b4f-ac14-434a8985f30d",
+    "projectName": "Kulturraffinerie",
+    "start": "",
+    "end": "",
+    "temperature": "",
+    "precipitation": "",
+    "weather": [],
+    "workers": [],
+    "activities": "",
+    "notes": "",
+    "photos": [],
+    "createdBy": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "createdByName": "Administrator",
+    "createdAt": "2026-04-03T09:49:43.780Z",
+    "updatedAt": "2026-04-03T09:49:43.780Z"
+  },
+  {
+    "id": "789171f8-96e6-4483-af51-88c2d819ffe7",
+    "date": "2026-04-05",
+    "reportNo": "002",
+    "projectId": "",
+    "projectName": "",
+    "client": "",
+    "orderNo": "",
+    "start": "07:00",
+    "end": "15:00",
+    "temperature": "",
+    "precipitation": "",
+    "wind": "",
+    "weather": [],
+    "workers": [
+      {
+        "name": "Person1",
+        "count": 1,
+        "gewerk": ""
+      },
+      {
+        "name": "Person2",
+        "count": 1,
+        "gewerk": ""
+      }
+    ],
+    "nachunternehmer": [
+      {
+        "btb-nufirma": "Firma Test",
+        "btb-nuleist": "",
+        "btb-nucnt": "1"
+      }
+    ],
+    "maschinen": [],
+    "material": [],
+    "besucher": [],
+    "activities": "AJLDFIAOPSIFNPOABNFPAONFPjjnp",
+    "soll": "",
+    "notes": "",
+    "safety": "",
+    "photos": [
+      {
+        "filename": "b4366d11-d860-408f-8eec-f229e5f9485f.heic",
+        "originalName": "20260112_161020.heic"
+      }
+    ],
+    "createdBy": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "createdByName": "Administrator",
+    "createdAt": "2026-04-05T19:00:40.553Z",
+    "updatedAt": "2026-04-05T19:00:40.553Z"
+  }
+]

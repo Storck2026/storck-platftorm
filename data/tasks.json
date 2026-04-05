@@ -1,0 +1,61 @@
+[
+  {
+    "id": "e3df3139-cfa7-4732-9b91-6c39e1299e94",
+    "ticketNo": 1,
+    "title": "Kassenhaus",
+    "projectId": "33a16fce-9cc2-4b4f-ac14-434a8985f30d",
+    "projectName": "Kulturraffinerie",
+    "assignedTo": "26d0a912-a2da-4a1a-9678-adfc418f874c",
+    "assignedToName": "Bojan Obradovic",
+    "type": "Mangel",
+    "typeColor": "#c0392b",
+    "category": "Einbruchmeldeanlage",
+    "categoryColor": "#2980b9",
+    "priority": "hoch",
+    "status": "in_bearbeitung",
+    "dueDate": "2026-04-01",
+    "ebene": "EG",
+    "parentTaskId": "",
+    "description": "sfskjdhgsdpgh",
+    "planId": null,
+    "planX": null,
+    "planY": null,
+    "photos": [],
+    "createdBy": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "createdByName": "Administrator",
+    "createdAt": "2026-03-31T12:56:47.657Z",
+    "updatedAt": "2026-03-31T12:57:51.288Z"
+  },
+  {
+    "id": "3bab5ecf-38fe-4d2f-98d6-823589bef179",
+    "ticketNo": 2,
+    "title": "WIfi2",
+    "projectId": "33a16fce-9cc2-4b4f-ac14-434a8985f30d",
+    "projectName": "Kulturraffinerie",
+    "assignedTo": "26d0a912-a2da-4a1a-9678-adfc418f874c",
+    "assignedToName": "Bojan Obradovic",
+    "type": "Behinderung",
+    "typeColor": "#8e44ad",
+    "category": "Brandmeldeanlage",
+    "categoryColor": "#c0392b",
+    "priority": "niedrig",
+    "status": "in_bearbeitung",
+    "dueDate": "2026-04-17",
+    "ebene": "",
+    "parentTaskId": "",
+    "description": "",
+    "planId": null,
+    "planX": null,
+    "planY": null,
+    "photos": [
+      {
+        "filename": "bdd37848-9d43-44ea-8c14-92640533ae95.heic",
+        "originalName": "20260112_161020.heic"
+      }
+    ],
+    "createdBy": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "createdByName": "Administrator",
+    "createdAt": "2026-04-05T19:13:33.158Z",
+    "updatedAt": "2026-04-05T19:13:33.158Z"
+  }
+]

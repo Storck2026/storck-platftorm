@@ -1,0 +1,19 @@
+[
+  {
+    "id": "b6c9355b-6140-46a3-a0e2-8fdc334dc5f6",
+    "name": "Bojan",
+    "typ": "Messgerät",
+    "seriennummer": "123456",
+    "standort": "Monheim ",
+    "projectId": "33a16fce-9cc2-4b4f-ac14-434a8985f30d",
+    "kaufdatum": "2025-01-01",
+    "letzteWartung": "2026-01-01",
+    "naechsteWartung": "2026-03-30",
+    "wartungsintervall": 12,
+    "status": "aktiv",
+    "notizen": "",
+    "createdBy": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "createdAt": "2026-03-31T13:02:11.853Z",
+    "updatedAt": "2026-03-31T13:02:27.213Z"
+  }
+]

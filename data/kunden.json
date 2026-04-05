@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d60c8997-b22d-4444-8dff-813a968c098d",
+    "kundennummer": "KD-0001",
+    "anrede": "Herr",
+    "name": "Storck Sicherheitstechnik GmbH",
+    "strasse": "Rhönstrasse",
+    "plz": "63071",
+    "ort": "Offenbach am Main",
+    "telefon": "015167269490",
+    "email": "b.obradovic@storck-gmbh.de",
+    "website": "",
+    "notizen": "",
+    "status": "aktiv",
+    "erstellt": "2026-04-05T19:14:54.292Z"
+  },
+  {
+    "id": "f779b1fc-e6fd-42d5-901e-2047bde66d2b",
+    "kundennummer": "KD-0002",
+    "anrede": "Herr",
+    "name": "Kunde2",
+    "strasse": "Musterstrasse1",
+    "plz": "60000",
+    "ort": "MusterOrt",
+    "telefon": "00321521",
+    "email": "",
+    "website": "",
+    "notizen": "",
+    "status": "aktiv",
+    "erstellt": "2026-04-05T19:15:33.942Z"
+  }
+]

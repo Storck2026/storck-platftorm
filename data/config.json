@@ -1,0 +1,14 @@
+{
+  "companyName": "test",
+  "onedrivePath": "",
+  "smtpHost": "smtp.office365.com",
+  "smtpPort": "587",
+  "smtpUser": "b.obradovic@storck-gmbh.de",
+  "smtpFrom": "",
+  "smtpPass": "sto/BO3457",
+  "smtpSecure": false,
+  "aiKey": "",
+  "logoFile": "",
+  "smtpFromName": "STORCK Baumanagement",
+  "claudeApiKey": "AIzaSyA4J8mHgz7T4Rgh9qcUeuLuItPWBmsgIkM"
+}

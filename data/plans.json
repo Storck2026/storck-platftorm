@@ -1,0 +1,34 @@
+[
+  {
+    "id": "9439df64-57ab-4d24-9797-59e299c74feb",
+    "projectId": "33a16fce-9cc2-4b4f-ac14-434a8985f30d",
+    "name": "K714_FIT_8_GR_UG_Z4_1004_P03",
+    "originalName": "K714_FIT_8_GR_03_Z3_1403_P00.pdf",
+    "filename": "ad8e9e15-ab1c-4b78-867b-767e372403bb.pdf",
+    "mimetype": "application/pdf",
+    "size": 1224991,
+    "category": "Sicherheitstechnik",
+    "description": "",
+    "restrictedTo": [],
+    "canDownload": [],
+    "uploadedBy": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "uploaderName": "Administrator",
+    "uploadedAt": "2026-03-31T10:45:28.523Z"
+  },
+  {
+    "id": "4212b305-e7c4-4a3a-990f-145d94dbd799",
+    "projectId": "0c021353-4e24-4f0b-94fb-62b49cc9ed37",
+    "name": "K714_FIT_8_GR_UG_Z1_1001_P02",
+    "originalName": "K714_FIT_8_GR_UG_Z1_1001_P02.pdf",
+    "filename": "70d82e7e-1437-442b-9b14-ad9536468257.pdf",
+    "mimetype": "application/pdf",
+    "size": 2572152,
+    "category": "Allgemein",
+    "description": "",
+    "restrictedTo": [],
+    "canDownload": [],
+    "uploadedBy": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "uploaderName": "Administrator",
+    "uploadedAt": "2026-03-31T12:55:30.145Z"
+  }
+]

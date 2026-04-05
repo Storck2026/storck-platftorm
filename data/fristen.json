@@ -1,0 +1,15 @@
+[
+  {
+    "id": "e92b0f58-5b0e-4476-ad65-d6ef1cedcece",
+    "titel": "test",
+    "faellig": "2026-04-11",
+    "erinnerungTage": 7,
+    "kategorie": "Vertrag",
+    "prioritaet": "hoch",
+    "status": "in Bearbeitung",
+    "zustaendig": "",
+    "beschreibung": "",
+    "erstelltVon": "Administrator",
+    "createdAt": "2026-04-05T18:57:25.382Z"
+  }
+]

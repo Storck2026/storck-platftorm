@@ -1,0 +1,15 @@
+[
+  {
+    "id": "e1a66ea9-2995-4ac9-ab9d-a6d3baaf5616",
+    "typ": "E-Mail",
+    "datum": "2026-04-05",
+    "kundeId": "f779b1fc-e6fd-42d5-901e-2047bde66d2b",
+    "kundeText": "",
+    "betreff": "test",
+    "status": "offen",
+    "notizen": "",
+    "wiedervorlage": "2026-04-11",
+    "ersteller": "Administrator",
+    "erstellt": "2026-04-05T19:19:58.104Z"
+  }
+]

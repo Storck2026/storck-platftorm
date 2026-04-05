@@ -1,0 +1,41 @@
+[
+  {
+    "id": "33a16fce-9cc2-4b4f-ac14-434a8985f30d",
+    "name": "Kulturraffinerie",
+    "location": "",
+    "client": "",
+    "orderNo": "",
+    "status": "aktiv",
+    "startDate": "",
+    "endDate": "",
+    "progress": 0,
+    "createdBy": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "createdAt": "2026-03-31T10:43:43.921Z"
+  },
+  {
+    "id": "327c8eb1-e930-47ba-8e45-23ad46f46ec1",
+    "name": "Hanau",
+    "location": "",
+    "client": "",
+    "orderNo": "",
+    "status": "aktiv",
+    "startDate": "",
+    "endDate": "",
+    "progress": 0,
+    "createdBy": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "createdAt": "2026-03-31T10:44:20.670Z"
+  },
+  {
+    "id": "0c021353-4e24-4f0b-94fb-62b49cc9ed37",
+    "name": "qwe",
+    "location": "asf",
+    "client": "asfa",
+    "orderNo": "asf",
+    "status": "aktiv",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-01",
+    "progress": 0,
+    "createdBy": "8239f914-d506-40ce-8f3f-e8a43684ac8a",
+    "createdAt": "2026-03-31T12:54:55.443Z"
+  }
+]
